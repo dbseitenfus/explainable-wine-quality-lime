@@ -84,8 +84,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-Certifique-se de que o arquivo `winequality-red.csv` esteja no mesmo diretório.
-
 ---
 
 ## Estrutura do Projeto
