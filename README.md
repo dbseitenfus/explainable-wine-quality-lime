@@ -8,7 +8,7 @@ Aplicação de **LIME (Local Interpretable Model-agnostic Explanations)** para e
 
 ## Visão Geral
 
-Modelos de ML de alta performance (como Random Forest e AdaBoost) costumam ser "caixas-pretas" — difíceis de interpretar. Este projeto usa o LIME para gerar explicações locais e legíveis por humanos sobre *por que* um modelo classificou um vinho como de boa ou má qualidade.
+Modelos de ML (como Random Forest e AdaBoost) costumam ser "caixas-pretas": difíceis de interpretar. Este projeto usa o LIME para gerar explicações locais e legíveis por humanos sobre *por que* um modelo classificou um vinho como de boa ou má qualidade.
 
 ---
 
